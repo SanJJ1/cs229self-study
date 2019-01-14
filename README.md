@@ -1,3 +1,5 @@
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FSKKSaikia%2FCS229_ML)
+
 # [CS229 : Machine Learning](http://cs229.stanford.edu/)
 
 <img src="https://github.com/SKKSaikia/CS229_ML/blob/master/img/cs229.jpg">
