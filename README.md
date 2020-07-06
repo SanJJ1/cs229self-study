@@ -6,7 +6,7 @@
 
 The "ML" course at Stanford , or to say the most popular Machine Learning course Worldwide is CS229. CS229 is Math Heavy and is 🔥, unlike a simplified online version at Coursera, "[Machine Learning](https://www.coursera.org/learn/machine-learning)". I [completed](https://www.coursera.org/account/accomplishments/verify/4G25AQXD9LDG) the [online](https://github.com/rmarquis/coursera-machinelearning) [version](https://github.com/atinesh-s/Coursera-Machine-Learning-Stanford) as a Freshaman and here I take the CS229 Stanford version. I have access to the 2013 video lectures of CS229 from [ClassX](http://classx.stanford.edu/) and the publicly available 2008 version is great as well. All in all, we have the slides, notes from the course website to learn the content. Stay truthful, maintain Honor Code and Keep Learning. Learning is a journey! 
 
-“CS229_ML is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial”
+`CS229_ML` is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial.
 <a href="https://tracking.gitads.io/?repo=CS229_ML"><img src="https://images.gitads.io/CS229_ML" alt="GitAds"/></a>
 
 No Text , but [Pattern Classification - Richard Duda, Peter Hart and David Stork](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/Pattern%20Classification%20by%20Richard%20O.%20Duda%2C%20David%20G.%20Stork%2C%20Peter%20E.Hart%20.pdf) | [handout](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/handout.pdf) | [Syllabus](http://cs229.stanford.edu/syllabus.html) 
