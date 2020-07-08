@@ -1,6 +1,6 @@
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FSKKSaikia%2FCS229_ML)
 
-# [CS229 : Machine Learning](http://cs229.stanford.edu/)
+# [CS229 : Machine Learning - 2020](http://cs229.stanford.edu/)
 
 <img src="https://github.com/SKKSaikia/CS229_ML/blob/master/img/cs229.jpg">
 
@@ -9,7 +9,7 @@ The flagship "ML" course at Stanford , or to say the most popular Machine Learni
 `CS229_ML` repository is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial.
 <a href="https://tracking.gitads.io/?repo=CS229_ML"><img src="https://images.gitads.io/CS229_ML" alt="GitAds"/></a>
 
-No Text , but [Pattern Classification - Richard Duda, Peter Hart and David Stork](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/Pattern%20Classification%20by%20Richard%20O.%20Duda%2C%20David%20G.%20Stork%2C%20Peter%20E.Hart%20.pdf) | [handout](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/handout.pdf) | [Syllabus](http://cs229.stanford.edu/syllabus.html)
+There's no official textbook , but [Pattern Classification - Richard Duda, Peter Hart and David Stork](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/Pattern%20Classification%20by%20Richard%20O.%20Duda%2C%20David%20G.%20Stork%2C%20Peter%20E.Hart%20.pdf) | [handout](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/handout.pdf) | [Syllabus](http://cs229.stanford.edu/syllabus.html)
 
 𓄆 <b>Important Books : </b><br/>
 𓊖 [Hands on Machine Learning with Scikit Learn and TensorFlow](https://github.com/devakar/deep-learning-books/blob/master/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf) <br/>
@@ -20,14 +20,18 @@ No Text , but [Pattern Classification - Richard Duda, Peter Hart and David Stork
 𓊖 [Pattern Recognition and Machine Learning Solution](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/Pattern%20Recognition%20and%20Machine%20Learning%20Solution.pdf) <br/>
 
 <b> Homework (40%) + Mid-term (20%) + Final Project (40%) </b>
+```python
+print("CS 229") #Machine Learning Journey starts here
+```
 
-# 🥤 Homeworks ([Problem Sets](https://github.com/SKKSaikia/CS229_ML/tree/master/PSET)): [Solutions](https://github.com/SKKSaikia/CS229_ML/blob/master/SOLUTIONS.MD)
+### 🥤 Homeworks ([Problem Sets](https://github.com/SKKSaikia/CS229_ML/tree/master/PSET)): [Solutions](https://github.com/SKKSaikia/CS229_ML/blob/master/SOLUTIONS.MD)
 
 🛦 [PSET 0](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps0.pdf) <br/>
-🛦 [PSET 1](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps1.zip) - [inst](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps1.txt) - [testdata](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/data.zip)<br/>
-🛦 [PSET 2](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps2.zip) - [inst](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps2.txt) <br/>
-🛦 [PSET 3](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps3.zip) - [inst](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps3.txt) - [peppers_numpy](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/peppers_numpy.zip) <br/>
-🛦 [PSET 4](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps4_v5_release.zip) - [inst](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps4.txt) - [autograder&solution](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/autograder.zip) <br/>
+🛦 [PSET 1](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps1.zip) : [inst](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps1.txt) - [testdata](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/data.zip)<br/>
+🛦 [PSET 2](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps2.zip) : [inst](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps2.txt) <br/>
+🛦 [PSET 3](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps3.zip) : [inst](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps3.txt) - [peppers_numpy](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/peppers_numpy.zip) <br/>
+🛦 [PSET 4](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps4_v5_release.zip) : [inst](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps4.txt) - [autograder&solution](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/autograder.zip) <br/>
+also check [@waynemystir](https://github.com/waynemystir/stanford-cs229)
 
 # Course:
 
