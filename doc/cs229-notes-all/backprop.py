@@ -55,7 +55,7 @@ if __name__ == '__main__':
     # This will be our numerical gradient
     ng = np.zeros(param.shape)
     for j in range(ng.shape[0]):
-      for k in xrange(ng.shape[1]):
+      for k in range(ng.shape[1]): # for k in xrange(ng.shape[1]):
         # For every element of parameter matrix, compute gradient of loss wrt
         # that element numerically using finite differences
         add_eps = np.copy(param)
@@ -71,7 +71,7 @@ if __name__ == '__main__':
 
   # Compare numerical gradients to those computed using backpropagation algorithm
   for key in params:
-    print key
+    print(key) # print key
     # These should be the same
     print(bprop_cache[key])
     print(ng_cache[key])

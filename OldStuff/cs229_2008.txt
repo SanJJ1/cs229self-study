@@ -1,0 +1,20 @@
+1 an overview of the course in this introductory meeting.
+2 linear regression, gradient descent, and normal equations and discusses how they relate to machine learning. 
+3  locally weighted regression, probabilistic interpretation and logistic regression and how it relates to machine learning. 
+4 Newton's method, exponential families, and generalized linear models and how they relate to machine learning. 
+5 generative learning algorithms and Gaussian discriminative analysis and their applications in machine learning. 
+6 naive Bayes, neural networks, and support vector machine. 
+7 optimal margin classifiers, KKT conditions, and SUM duals. 
+8 support vector machines, including soft margin optimization and kernels. 
+9  learning theory, covering bias, variance, empirical risk minimization, union bound and Hoeffding's inequalities. 
+10 learning theory by discussing VC dimension and model selection. 
+11 Bayesian statistics, regularization, digression-online learning, and the applications of machine learning algorithms. 
+12 unsupervised learning in the context of clustering, Jensen's inequality, mixture of Gaussians, and expectation-maximization. 
+13 expectation-maximization in the context of the mixture of Gaussian and naive Bayes models, as well as factor analysis and digression.
+14  factor analysis and expectation-maximization steps, and continues on to discuss principal component analysis (PCA). 
+15 principal component analysis (PCA) and independent component analysis (ICA) in relation to unsupervised machine learning. 
+16  reinforcement learning, focusing particularly on MDPs, value functions, and policy and value iteration. 
+17  reinforcement learning, focusing particularly on continuous state MDPs, discretization, and policy and value iterations.
+18 state action rewards, linear dynamical systems in the context of linear quadratic regulation, models, and the Riccati equation, and finite horizon MDPs.
+19  debugging process, linear quadratic regulation, Kalmer filters, and linear quadratic Gaussian in the context of reinforcement learning. 
+20 POMDPs, policy search, and Pegasus in the context of reinforcement learning.?
