@@ -1,8 +1,8 @@
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FSKKSaikia%2FCS229_ML)
+
 
 # [CS229 : Machine Learning - 2020](http://cs229.stanford.edu/)
 
-<img src="https://github.com/SKKSaikia/CS229_ML/blob/master/img/cs229.jpg">
+<img src="2018/cs229.jpg">
 
 The flagship "ML" course at Stanford , or to say the most popular Machine Learning course worldwide is CS229. CS229 is Math Heavy and is 🔥, unlike the simplified online version at Coursera, "[Machine Learning](https://www.coursera.org/learn/machine-learning)". I [completed](https://www.coursera.org/account/accomplishments/verify/4G25AQXD9LDG) the [online](https://github.com/rmarquis/coursera-machinelearning) [version](https://github.com/atinesh-s/Coursera-Machine-Learning-Stanford) as a Freshaman and here I take the CS229 Stanford version. CS229 lectures are now available online as a YouTube playlist [CS 229 : Autumn 2018](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU). All in all, we have the videos, slides, notes from the course website to learn the content. Stay truthful, maintain Honor Code and Keep Learning. Learning is a journey!
 
